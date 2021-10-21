@@ -8,14 +8,17 @@ telefon: 123456789
 01.2016-obecnie
 * Specjalista ds. rekrutacji | ITFhrR | Kraków
 **krótki opis stanowiska:**
-**1.** Przeprowadzanie procesów rekrutacyjnych do wszytskich działów
-**2.** Redagowanie i publiowanie ogłoszeń rekrutacyjnych
+** 1.** Przeprowadzanie procesów rekrutacyjnych do wszytskich działów
+** 2.** Redagowanie i publiowanie ogłoszeń rekrutacyjnych
 ***
 ##  Wykształcenie
 10.2008-06.2013
 > + Uniwersytet Jagielloński
+> 
 **kierunek:** zarządzanie
+
 **specjalizacja:** zarządzanie zasobami ludzkimi
+
 **poziom wykształcenia:** magister
 ***
 ## Znajomość języków
