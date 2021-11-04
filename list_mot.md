@@ -1,4 +1,4 @@
-List motywacyjny
+**List motywacyjny**
 ---
 Szanowny Panie,
 
